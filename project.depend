@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1349183400 source:e:\school\codeblocks\besturingssystemen\shell\token.cc
+	"Token.h"
+	<cctype>
+	<cstring>
+
+1349183721 
+
+1349183527 e:\school\codeblocks\besturingssystemen\shell\token.h
+	<string>
+	<istream>
+
+1349183721 source:e:\school\codeblocks\besturingssystemen\shell\main.cc
+	"Token.h"
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<fstream>
+
+1352935402 source:/home/akk/SCHOOL/KW2.3/BS_OS/opdrachten/shell/Token.cc
+	"Token.h"
+	<cctype>
+	<cstring>
+
+1352937722 /home/akk/SCHOOL/KW2.3/BS_OS/opdrachten/shell/Token.h
+	<string>
+	<istream>
+
+1352937674 source:/home/akk/SCHOOL/KW2.3/BS_OS/opdrachten/shell/scanner.cc
+	"Token.h"
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<fstream>
+

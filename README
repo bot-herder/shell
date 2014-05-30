@@ -1,0 +1,10 @@
+makefile		- a linux make file
+shell.cbp		- a codeblocks project file
+shell.dev		- a devcpp project file
+shell.layout	- devcpp file
+Makefile.win	- devcpp file
+main.cc			- het test programma
+Token.h			- de tokenizer (declaratie)
+Token.cc		- de tokenizer (implementatie)
+test.sh			- de test invoerfile
+log.txt			- uitvoer van het testen

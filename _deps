@@ -1,0 +1,11 @@
+Shell.o: Shell.cc asserts.h syntax_error.h Shell.h Sequence.h Pipeline.h \
+ Command.h Token.h
+unix_error.o: unix_error.cc ansi.h common.h unix_error.h
+Token.o: Token.cc asserts.h Token.h
+Sequence.o: Sequence.cc asserts.h unix_error.h Sequence.h Pipeline.h \
+ Command.h
+main.o: main.cc ansi.h common.h Shell.h Sequence.h Pipeline.h Command.h \
+ Token.h
+asserts.o: asserts.cc asserts.h ansi.h common.h
+Pipeline.o: Pipeline.cc asserts.h unix_error.h Pipeline.h Command.h
+Command.o: Command.cc asserts.h unix_error.h Command.h
